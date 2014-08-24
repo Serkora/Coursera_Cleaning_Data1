@@ -2,14 +2,14 @@
                 HUMAN ACTIVITY RECOGNITION USING SMARTPHONES
 
 
-Subject_ID      2
+	Subject_ID      2
 
-    Volunteer Identification Number
+    	Volunteer Identification Number
 
                 1..30    Number assigned to each of the volunteers 
 participated in the data collection
                 
-Activity        string
+	Activity        string
     
 			Type of activity at the time of measurements
                 LAYING              Subject was laying at the time of data collection
