@@ -112,7 +112,7 @@
 	
 	tBodyGyroJerkMag_std   	19
 		Stand deviation of the magnitude of the time domain signal of body angular velocity jerk 
-	                        	-1..1	Measured value
+	                        -1..1	Measured value
 	
 	fBodyAcc_std_X   	19
 		Stand deviation of the frequency domain signal of body acceleration in X-axis direction
