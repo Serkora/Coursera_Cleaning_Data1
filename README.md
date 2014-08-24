@@ -11,9 +11,9 @@
 
 
     	The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
-    	Each person performed six activities (walking, walking_upstairs, walking_downstairs, sitting, standing, laying) 
-    	wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 
-    	we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. 
+    	Each person performed six activities (walking, walking_upstairs, walking_downstairs, sitting, standing, 
+    	laying)	wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and 
+    	gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. 
     	The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly 
     	partitioned into two sets, where 70% of the volunteers was selected for generating the training data 
     	and 30% the test data. 
@@ -23,8 +23,8 @@
     	as they correspond to mean and standard deviation values.
     
     	The following steps have been done:
-        	1. Read in all separate files for measurements, activities, labels and volunteer subjects for both test 
-        	   and train sets
+        	1. Read in all separate files for measurements, activities, labels and volunteer subjects for both the 
+        	   test and train sets
         	2. Combine and label measurements, activities and volunteer subject IDs into two data frames: for 
         	   test and train data
         	3. Add column to denote whether the data is test or train.
