@@ -3,11 +3,15 @@
 
 
 Subject_ID      2
+
     Volunteer Identification Number
-                1..30    Number assigned to each of the volunteers participated in the data collection
+
+                1..30    Number assigned to each of the volunteers 
+participated in the data collection
                 
 Activity        string
-    Type of activity at the time of measurements
+    
+			Type of activity at the time of measurements
                 LAYING              Subject was laying at the time of data collection
                 STANDING            Subject was standing at the time of data collection
                 WALKING             Subject was walking at the time of data collection
