@@ -27,7 +27,7 @@
         	   test and train sets
         	2. Combine and label measurements, activities and volunteer subject IDs into two data frames: for 
         	   test and train data
-        	3. Add column to denote whether the data is test or train.
+        	3. Add column to denote whether the data is was used to train or test
         	4. Combine test and train data into one dataset
         	5. Change variable names to be descriptive, short, consistent and not have invalid characters in them
         	6. Aggregate mean value of each column by activity and subject ID
